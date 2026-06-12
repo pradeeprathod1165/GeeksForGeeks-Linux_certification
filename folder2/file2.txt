@@ -1,0 +1,2 @@
+Hey everyone i am pradeep here learning types of redirection 
+here we learn about overwrite and append which are indicated by > for overwrite and >> append
